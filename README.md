@@ -1,3 +1,3 @@
 # markshuo.github.io
 ma的bolg
-<p style="color:#ff0">mark</p>
+<p style="color:#FF0000">mark</p>
